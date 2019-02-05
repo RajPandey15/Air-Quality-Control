@@ -1,0 +1,29 @@
+create a mavemn project
+
+pom.xml 
+
+jpa,mysql- comment 
+
+
+web-inf
+	view
+		admin
+			jsp
+			
+			
+			
+			
+src/main/reesources
+	static
+		asdminResources
+		
+			application.properties
+			
+com.project	
+	
+	mainmethod
+
+com.project.controller
+	MainController
+		@Reque(value="/)
+			return("admin/index")
